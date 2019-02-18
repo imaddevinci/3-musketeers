@@ -32,10 +32,10 @@ $node bin/index.js
 
 
 ## Objectives
-The purpose of the librarie are 
 <li>
 Get the value of the default currency from Euro (EUR), the British Pound Sterling (GBP) and the Japanese Yen (JPY) 
+</li>
+<li>
 Convert any amount from a currency to another
-
 </li>
 
