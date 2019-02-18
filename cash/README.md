@@ -3,6 +3,7 @@
 
 ## Installation
 <li>
+To clone and run this application you have to do this from your command line
 
 ```sh
 Clone this repository
