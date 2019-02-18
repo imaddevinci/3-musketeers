@@ -53,10 +53,14 @@ $ node index.js --help
 
 
 ```
+You can specify an amout to convert from and a currency to convert to:
+```sh
+$ cash <amount> <from> <to>
+```
+
 Exemple
 ```sh
         $ cash 10 usd eur pln
-        $ cash --set usd aud
 ```
 
 
