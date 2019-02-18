@@ -7,6 +7,7 @@
 
 - [Introduction](#-introduction)
 - [Objectives](#-objectives)
+- [How To Use](#-how-to-do)
 
 
 ## Installation
@@ -39,3 +40,27 @@ Get the value of the default currency from Euro (EUR), the British Pound Sterlin
 Convert any amount from a currency to another
 </li>
 
+
+
+## How To Do
+
+```sh
+
+$ cd bin
+
+Print the help
+$ node index.js --help
+
+
+```
+Exemple
+```sh
+        $ cash 10 usd eur pln
+        $ cash --set usd aud
+```
+
+
+
+
+
+  
