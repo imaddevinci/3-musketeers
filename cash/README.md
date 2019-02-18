@@ -5,9 +5,9 @@
 
 **Table of Contents**
 
-- [Introduction](#-introduction)
-- [Objectives](#-objectives)
-- [How To Use](#-how-to-do)
+- [Introduction](#introduction)
+- [Objectives](#objectives)
+- [How To Use](#how-to-do)
 
 
 ## Installation
