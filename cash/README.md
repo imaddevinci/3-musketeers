@@ -6,12 +6,12 @@
 
 ```sh
 Clone this repository
->git clone https://github.com/imaddevinci/3-musketeers.git
+$git clone https://github.com/imaddevinci/3-musketeers.git
 Go into the repository
->cd /path/to/workspace/3-musketeers/cash
-$Install dependencies
->npm i
-$Run the app
->node bin/index.js
+$cd /path/to/workspace/3-musketeers/cash
+Install dependencies
+$npm i
+Run the app
+$node bin/index.js
 ```
 </li>
